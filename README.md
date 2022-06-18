@@ -13,3 +13,5 @@ elixir
 erlang
   25.0
 ```
+
+Repositório desenvolvido utilizando curso do Udemy, ministrador por David Alencar
